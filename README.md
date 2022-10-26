@@ -40,7 +40,7 @@ Number of public-registered EV charging stations: https://openchargemap.org/site
 ## step3 Clean data and generate excel/csv file
 See [https://docs.google.com/spreadsheets/d/1yvA6QSGX82xFxjYSa_GkTy_do4KOC22-9XSZPq0CU8E/edit#gid=0]( sheet name processed data)
 
-## setp4 train data with different models
+## setp4 Train data with different models
 
 
 
