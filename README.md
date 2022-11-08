@@ -41,7 +41,32 @@ Number of public-registered EV charging stations: https://openchargemap.org/site
 See [https://docs.google.com/spreadsheets/d/1yvA6QSGX82xFxjYSa_GkTy_do4KOC22-9XSZPq0CU8E/edit#gid=0] ( sheet name processed data)
 each independent variable should be added as a new column
 
-## Setp4 Train data with different models
+## Step 4 Train data with different models
+asdf asdf 
+
+
+# Dev Setup Guide 
+### Watch [this](https://missing.csail.mit.edu/2020/version-control/) if you want to learn more
+```
+Steps
+1. Clone the repository to local:git clone https://github.com/RichZhou1999/IEOR142-EV-registration-prediction.git
+2. Update the remote branch to local: git remote update
+3. Checkout (move) to dev branch: git checkout -t origin/dev 
+
+If you follow the above steps, you will be working at 'dev' branch. To make sure, type 'git branch'. It will show the following: 
+* dev
+main 
+
+Now, if you make any file changes (add, delete, or update), you can add the files to staging by: git add <file 1> <file 2> ... 
+
+After the files are being staged, commit by: git commit -m <msg of thhe commit>
+
+Then push by: git push 
+
+There will be a new Pull Request on Github which is a request to merge to main. After someone approves the PR (Pull Requests), merge.
+
+```
+
 
 
 
