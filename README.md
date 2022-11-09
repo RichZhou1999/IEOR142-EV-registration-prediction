@@ -63,9 +63,9 @@ After the files are being staged, commit by: git commit -m <msg of thhe commit>
 
 Then push by: git push 
 
-THe changes will be pushed to origin/dev. Now start a Pull Request (PR) under [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in github. After creating the PR, make sure that someone reviews it. Only when it's reviewed, it is ready to merge to main! 
-
 ```
+
+The changes will be pushed to origin/dev. Now start a Pull Request (PR) under [Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) in github. After creating the PR, make sure that someone reviews it. Only when it's reviewed, it is ready to merge to main! 
 
 
 
