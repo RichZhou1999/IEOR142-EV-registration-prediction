@@ -4,3 +4,5 @@
 .idea*
 get_snapshot.py
 get_charge_station.py
+.DS_Store
+raw_data/.DS_Store
